@@ -3,7 +3,7 @@
  Small project consuming [The Movie Database API](https://developers.themoviedb.org/3/search/search-movies) to show upcoming movies.
  This app was built using Swift 5 with deployment target 11.0.
 
-### Project Dependancies:
+### Project Dependencies:
 * [SwiftLint](https://github.com/realm/SwiftLint) - Lint tool for Swift to help keep consistency while coding
 * [CocoaPods-Keys](https://github.com/orta/cocoapods-keys) - Pod to keep API and other secrets hidden from code base and encoded
 
